@@ -1,4 +1,5 @@
 ABSTRACT
+
 Obstructive Sleep Apnea (OSA) occurs when the airway is repeatedly obstructed during sleep due to relaxation of the tongue and airway muscles. Indicators of OSA include snoring, poor sleep quality, and waking up unrefreshed. OSA diagnosis is costly, leading to many undiagnosed cases. Previous research links facial morphology with OSA. This project investigates using deep learning on facial depth maps for OSA diagnosis, achieving around 69% validation accuracy using transfer learning.
 Introduction – Aim, Objective, Scope
 Aim: To develop a deep learning model for predicting OSA using facial depth maps.
